@@ -1,0 +1,26 @@
+footer{
+    display: flex;
+    /* flex-direction: column; */
+    height: 10vh;
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    width: auto;
+    padding-top: 2vh;
+    text-align: center;
+}
+.flex-all-center p{
+    margin: auto;
+    margin-right: 5px;
+}
+footer a{
+    margin: auto;
+    margin-left: 5px;   
+}
+footer a img{
+    border-radius: 5px;
+    margin-left: 5px;
+}
+#twitter{
+    margin-left: 5px;
+}
